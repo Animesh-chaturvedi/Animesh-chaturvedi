@@ -17,6 +17,6 @@ const animesh = {
     }
 };
 ```
-
-
- <a href="https://github.com/Animesh-chaturvedi"><img src="https://github-readme-stats.vercel.app/api?username=Animesh-chaturvedi&theme=radical&title_color=ff3068?"></a>
+<p align="center">
+Check out my repos ⬇️  
+</p>
