@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my GitHub! I'm Animesh Chaturvedi, full-stack developer
 
-<!--
-**Animesh-chaturvedi/Animesh-chaturvedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### aboutMe.js
 
-Here are some ideas to get you started:
+```javascript
+const animesh = {
+    code: [Javascript, Typescript, HTML, CSS, XML],
+    askMeAbout: ["web dev", "tech", "system design", "music", "basketball"],
+    technologies: {
+        frontEnd: {
+            JavaScript:[React.js, Next.js, Vanilla.js, EJS ]
+            css: ["MaterialUI", "bootstrap", "styled-components", "module.css"]
+        },
+        backEnd: {
+            js: ["AWS", "node", "Express.js"]
+        }        
+    }
+};
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <a href="https://github.com/Giingu"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Animesh-chaturvedi&theme=radical&title_color=ff3068?"></a>
